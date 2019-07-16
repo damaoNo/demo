@@ -1,0 +1,4 @@
+action: 
+  str: dev环境配置输出
+server:
+  port: 7020
